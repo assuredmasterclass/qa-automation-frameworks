@@ -2,8 +2,9 @@
 
 # Step by Step from Start to Completion
 
+# Project ID : AMC_P_0101
 
-# Project ID : AMC_P_01_01
+# Project Name : IMPLEMENT SOFTWARE TEST AUTOMATION FRAMEWORKS
 
 # Project Objectives and Description
 
@@ -14,3 +15,29 @@ The Automation Frameworks will use the latest Hardware Devices, and latest Softw
 Background technical explantions will be given and issues described together with working issue resolution steps.
 
 ![DmK_xgyXsAA2mo8](https://user-images.githubusercontent.com/110780148/183311602-23415e22-5201-4194-8dcc-dec7570d8a5b.jpeg)
+
+Platform 001 Design
+
+<img width="182" alt="image" src="https://user-images.githubusercontent.com/110780148/183312484-6b39c3ff-e724-4284-8671-f357e60ee599.png">
+
+<img width="210" alt="image" src="https://user-images.githubusercontent.com/110780148/183312495-d2392bf9-d844-46ea-9763-32fa49eeb051.png">
+
+<img width="144" alt="image" src="https://user-images.githubusercontent.com/110780148/183312508-c05a760d-def7-41d1-801b-3c08d9615532.png">
+
+<img width="651" alt="image" src="https://user-images.githubusercontent.com/110780148/183312525-c5dbb20f-4bbf-4cf7-ba24-8796692b7780.png">
+
+<img width="359" alt="image" src="https://user-images.githubusercontent.com/110780148/183312580-e0e21a55-8724-4386-9013-bd20c086b4c7.png">
+
+<img width="207" alt="image" src="https://user-images.githubusercontent.com/110780148/183312611-1968b898-490e-4e2c-bbc6-8b72c3d9d481.png">
+
+<img width="260" alt="image" src="https://user-images.githubusercontent.com/110780148/183312665-873cb2ba-aedb-453f-bc38-9c6d695d4c62.png">
+
+
+
+
+
+# Task ID ; AMC_T_0101
+
+# Task Name : 
+
+
