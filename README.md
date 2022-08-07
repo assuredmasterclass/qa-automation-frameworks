@@ -20,13 +20,7 @@ Background technical explantions will be given and issues described together wit
 
 ![DmK_xgyXsAA2mo8](https://user-images.githubusercontent.com/110780148/183311602-23415e22-5201-4194-8dcc-dec7570d8a5b.jpeg)
 
-Platform 001 Design
-
-<img width="182" alt="image" src="https://user-images.githubusercontent.com/110780148/183312484-6b39c3ff-e724-4284-8671-f357e60ee599.png">
-
-<img width="210" alt="image" src="https://user-images.githubusercontent.com/110780148/183312495-d2392bf9-d844-46ea-9763-32fa49eeb051.png">
-
-<img width="144" alt="image" src="https://user-images.githubusercontent.com/110780148/183312508-c05a760d-def7-41d1-801b-3c08d9615532.png">
+Platform 001 Design - Device Hardware, Operating System and Sofrware
 
 <img width="651" alt="image" src="https://user-images.githubusercontent.com/110780148/183312525-c5dbb20f-4bbf-4cf7-ba24-8796692b7780.png">
 
@@ -35,6 +29,15 @@ Platform 001 Design
 <img width="207" alt="image" src="https://user-images.githubusercontent.com/110780148/183312611-1968b898-490e-4e2c-bbc6-8b72c3d9d481.png">
 
 <img width="260" alt="image" src="https://user-images.githubusercontent.com/110780148/183312665-873cb2ba-aedb-453f-bc38-9c6d695d4c62.png">
+
+<img width="648" alt="image" src="https://user-images.githubusercontent.com/110780148/183313157-9ae429e2-93d7-4eba-aded-906785d4b784.png">
+
+<img width="182" alt="image" src="https://user-images.githubusercontent.com/110780148/183312484-6b39c3ff-e724-4284-8671-f357e60ee599.png">
+
+<img width="210" alt="image" src="https://user-images.githubusercontent.com/110780148/183312495-d2392bf9-d844-46ea-9763-32fa49eeb051.png">
+
+<img width="144" alt="image" src="https://user-images.githubusercontent.com/110780148/183312508-c05a760d-def7-41d1-801b-3c08d9615532.png">
+
 
 
 
@@ -47,6 +50,10 @@ Platform 001 Design
 <img width="401" alt="image" src="https://user-images.githubusercontent.com/110780148/183312875-772e827d-1dd3-4698-bfe1-6ea13cf5030c.png">
 
 <img width="677" alt="image" src="https://user-images.githubusercontent.com/110780148/183312902-fd9bffeb-67f4-4c13-bab1-a87c77e17aa2.png">
+
+<img width="230" alt="image" src="https://user-images.githubusercontent.com/110780148/183313248-8e02afb9-6fe9-40c6-a86f-80ff09d0c7e4.png">
+
+<img width="496" alt="image" src="https://user-images.githubusercontent.com/110780148/183313257-74817f8f-524f-4357-8eea-89ace859ac55.png">
 
 
 
