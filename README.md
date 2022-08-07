@@ -34,6 +34,9 @@ Platform 001 - Device Hardware, Operating System and Software Components and Ver
 
 <img width="144" alt="image" src="https://user-images.githubusercontent.com/110780148/183312508-c05a760d-def7-41d1-801b-3c08d9615532.png">
 
+<img width="409" alt="image" src="https://user-images.githubusercontent.com/110780148/183314121-f8267357-557c-46c5-a842-9eb6420bdce6.png">
+
+
 
 
 
@@ -52,6 +55,11 @@ Platform 001 - Device Hardware, Operating System and Software Components and Ver
 <img width="230" alt="image" src="https://user-images.githubusercontent.com/110780148/183313248-8e02afb9-6fe9-40c6-a86f-80ff09d0c7e4.png">
 
 <img width="496" alt="image" src="https://user-images.githubusercontent.com/110780148/183313257-74817f8f-524f-4357-8eea-89ace859ac55.png">
+
+<img width="449" alt="image" src="https://user-images.githubusercontent.com/110780148/183313847-24a9dda6-6c57-4879-adcc-79b91258208e.png">
+
+<img width="1356" alt="image" src="https://user-images.githubusercontent.com/110780148/183313891-66b3386a-4f88-477d-929b-23a43b0ca0cc.png">
+
 
 
 
