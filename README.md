@@ -22,8 +22,6 @@ Background technical explantions will be given and issues described together wit
 
 Platform 001 Design - Device Hardware, Operating System and Sofrware
 
-<img width="651" alt="image" src="https://user-images.githubusercontent.com/110780148/183312525-c5dbb20f-4bbf-4cf7-ba24-8796692b7780.png">
-
 <img width="359" alt="image" src="https://user-images.githubusercontent.com/110780148/183312580-e0e21a55-8724-4386-9013-bd20c086b4c7.png">
 
 <img width="207" alt="image" src="https://user-images.githubusercontent.com/110780148/183312611-1968b898-490e-4e2c-bbc6-8b72c3d9d481.png">
@@ -46,6 +44,8 @@ Platform 001 Design - Device Hardware, Operating System and Sofrware
 # Task ID ; AMC_T_0101
 
 # Task Name : INSTALL JAVA
+
+<img width="648" alt="image" src="https://user-images.githubusercontent.com/110780148/183313157-9ae429e2-93d7-4eba-aded-906785d4b784.png">
 
 <img width="401" alt="image" src="https://user-images.githubusercontent.com/110780148/183312875-772e827d-1dd3-4698-bfe1-6ea13cf5030c.png">
 
