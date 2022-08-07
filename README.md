@@ -4,13 +4,17 @@
 
 # Project ID : AMC_P_0101
 
-# Project Name : IMPLEMENT SOFTWARE TEST AUTOMATION FRAMEWORKS
+# Project Name : IMPLEMENT SOFTWARE TEST AUTOMATION FRAMEWORK
 
 # Project Objectives and Description
 
-Implement Software Test Automation Frameworks from the very minimum working solution then gradually adding additional components to enhace the Framework's capabilities and then integrating the Framework into a wider Application Lifecycle Management (ALM) Platform Solution.
+Implement Software Test Automation Framework from the very minimum working solution then gradually adding additional components to enhace the Framework's capabilities and then integrating the Framework into a wider Application Lifecycle Management (ALM) Platform Solution.
 
-The Automation Frameworks will use the latest Hardware Devices, and latest Software rReleases, with each step time and dated and including a verification point for each step.
+Different versions of each framework will change the components to the framework to a diffent software implementation while maintaining the same functionality.
+
+The Automation Frameworks will use the latest Hardware Devices, and latest Software rReleases, with each task step time and dated and including a verification point for each task step.
+
+Where a task step is been introduced for the first time band ackgroud steps to complete the task step will be given.
 
 Background technical explantions will be given and issues described together with working issue resolution steps.
 
@@ -38,6 +42,11 @@ Platform 001 Design
 
 # Task ID ; AMC_T_0101
 
-# Task Name : 
+# Task Name : INSTALL JAVA
+
+<img width="401" alt="image" src="https://user-images.githubusercontent.com/110780148/183312875-772e827d-1dd3-4698-bfe1-6ea13cf5030c.png">
+
+<img width="677" alt="image" src="https://user-images.githubusercontent.com/110780148/183312902-fd9bffeb-67f4-4c13-bab1-a87c77e17aa2.png">
+
 
 
