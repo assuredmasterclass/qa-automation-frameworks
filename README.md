@@ -28,8 +28,6 @@ Platform 001 - Device Hardware, Operating System and Software Components and Ver
 
 <img width="260" alt="image" src="https://user-images.githubusercontent.com/110780148/183312665-873cb2ba-aedb-453f-bc38-9c6d695d4c62.png">
 
-<img width="648" alt="image" src="https://user-images.githubusercontent.com/110780148/183313157-9ae429e2-93d7-4eba-aded-906785d4b784.png">
-
 <img width="182" alt="image" src="https://user-images.githubusercontent.com/110780148/183312484-6b39c3ff-e724-4284-8671-f357e60ee599.png">
 
 <img width="210" alt="image" src="https://user-images.githubusercontent.com/110780148/183312495-d2392bf9-d844-46ea-9763-32fa49eeb051.png">
