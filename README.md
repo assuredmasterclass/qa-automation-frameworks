@@ -20,7 +20,7 @@ Background technical explantions will be given and issues described together wit
 
 ![DmK_xgyXsAA2mo8](https://user-images.githubusercontent.com/110780148/183311602-23415e22-5201-4194-8dcc-dec7570d8a5b.jpeg)
 
-Platform 001 Design - Device Hardware, Operating System and Sofrware
+Platform 001 - Device Hardware, Operating System and Software Components and Versions
 
 <img width="359" alt="image" src="https://user-images.githubusercontent.com/110780148/183312580-e0e21a55-8724-4386-9013-bd20c086b4c7.png">
 
