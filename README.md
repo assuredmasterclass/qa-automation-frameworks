@@ -1,6 +1,6 @@
 # qa-automation-frameworks Repository
 
-# Step by Step from Start to Completion
+# Visual Tasks Every Step with Verification Points from Start to Completion
 
 # Project ID : AMC_P_0101
 
@@ -29,8 +29,6 @@ Platform 001 - Device Hardware, Operating System and Software Components and Ver
 <img width="260" alt="image" src="https://user-images.githubusercontent.com/110780148/183312665-873cb2ba-aedb-453f-bc38-9c6d695d4c62.png">
 
 <img width="601" alt="image" src="https://user-images.githubusercontent.com/110780148/183315006-713a870f-5198-40e2-8b0f-30fe65d82f3a.png">
-
-<img width="144" alt="image" src="https://user-images.githubusercontent.com/110780148/183312508-c05a760d-def7-41d1-801b-3c08d9615532.png">
 
 ![image](https://user-images.githubusercontent.com/110780148/183315046-e02bce97-b16f-4dfb-8c04-9f7ca7df0b04.png)
 
