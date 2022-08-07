@@ -1,6 +1,6 @@
 # qa-automation-frameworks Repository
 
-# Visual Tasks all Steps and Verification Points from Start to Completion
+# Visual Tasks with all Steps and Verification Points from Start to Completion
 
 # Project ID : AMC_P_0101
 
