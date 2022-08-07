@@ -1,6 +1,6 @@
 # qa-automation-frameworks Repository
 
-# Visual Tasks from Start to Completion with all Steps and Verification Points
+# Visual Tasks from Start to Finish with all Steps and Verification Points using Latest Software Versions
 
 # Project ID : AMC_P_0101
 
@@ -8,7 +8,7 @@
 
 # Project Objectives and Description
 
-Implement Software Test Automation Framework from the very minimum working solution then gradually adding additional components to enhace the Framework's capabilities and then integrating the Framework into a wider Application Lifecycle Management (ALM) Platform Solution.
+Implement Software Test Automation Framework from the very minimum working solution to gradually adding additional components to enhace the Framework's capabilities and then integrating the Framework into a wider Application Lifecycle Management (ALM) Platform Solution.
 
 Different versions of each framework will change the components to the framework to a diffent software implementation while maintaining the same functionality.
 
