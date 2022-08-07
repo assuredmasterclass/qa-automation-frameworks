@@ -56,6 +56,8 @@ Platform 001 - Device Hardware, Operating System and Software Components and Ver
 
 <img width="496" alt="image" src="https://user-images.githubusercontent.com/110780148/183313257-74817f8f-524f-4357-8eea-89ace859ac55.png">
 
+https://www.oracle.com/java/technologies/downloads/#jdk18-mac
+
 <img width="449" alt="image" src="https://user-images.githubusercontent.com/110780148/183313847-24a9dda6-6c57-4879-adcc-79b91258208e.png">
 
 <img width="1356" alt="image" src="https://user-images.githubusercontent.com/110780148/183313891-66b3386a-4f88-477d-929b-23a43b0ca0cc.png">
