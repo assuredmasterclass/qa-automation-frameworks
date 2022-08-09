@@ -22,6 +22,8 @@ Background technical explantions will be given and issues described together wit
 
 Platform 001 - Device Hardware, Operating System and Software Components and Versions
 
+<img width="303" alt="image" src="https://user-images.githubusercontent.com/110780148/183715197-72688126-c7b7-42bd-ba9a-c48cf1ac5f97.png">
+
 <img width="359" alt="image" src="https://user-images.githubusercontent.com/110780148/183312580-e0e21a55-8724-4386-9013-bd20c086b4c7.png">
 
 <img width="260" alt="image" src="https://user-images.githubusercontent.com/110780148/183312665-873cb2ba-aedb-453f-bc38-9c6d695d4c62.png">
